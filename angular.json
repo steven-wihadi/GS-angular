@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "GS-ng9-app": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GS-ng9-app"
+    }
+  },
+  "defaultProject": "GS-ng9-app",
+  "cli": {
+    "analytics": "91a8a5f4-2944-4f37-9852-6f38c6c58b4a"
+  }
 }
